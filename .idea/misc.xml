@@ -4,7 +4,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/turnos/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/pacientes/pom.xml" />
+>>>>>>> df198ee6a9f188a81187a38e3abbf2a9d0064b48
       </list>
     </option>
   </component>
